@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Full Stack Web App</b>
-  - [Praciting DS & Algos in Python](https://github.com/christylampt/CNNImageClassifier/tree/main)
+- <b>Image Classification with CNNs</b>
+  - [Praciting Tensorflow and Numpy with Python](https://github.com/christylampt/CNNImageClassifier/tree/main)
 - <b>Neural networks with Tensorflow and Numpy</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>Python</b>
